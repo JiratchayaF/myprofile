@@ -1,9 +1,12 @@
 
-body,h1,h2{
+body,h1,h2,h3{
     font-family: "Raleway", sans-serif
 }
-h1 {
+h1,h3 {
     letter-spacing: 6px
+}
+h3 {
+    letter-spacing: 2px
 }
 .w3-row-padding img {
     margin-bottom: 12px
