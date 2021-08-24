@@ -5,9 +5,12 @@ body,h1,h2,h4{
 h1,h3 {
     letter-spacing: 6px
 }
-h4 {
+h4{
     font-weight: 600;
-    letter-spacing: 2px
+    letter-spacing: 1.5px
+}
+li {
+    letter-spacing: 1px
 }
 .w3-row-padding img {
     margin-bottom: 12px
