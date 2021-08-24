@@ -1,0 +1,36 @@
+
+body,h1,h2{
+    font-family: "Raleway", sans-serif
+}
+h1 {
+    letter-spacing: 6px
+}
+.w3-row-padding img {
+    margin-bottom: 12px
+}
+body, html {
+    height: 100%
+}
+p {
+    line-height: 2
+}
+.bgimg, .bgimg2 {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.bgimg {
+    background-image: url("/w3images/wedding_couple.jpg")}
+.bgimg2 {
+    background-image: url("/image/bg1.jpg")
+}
+.about_bg{
+    background-color: #daddd8;
+}
+.get_start{
+    background-color:#212529;
+    color: whitesmoke;
+}
+.education_bg{
+    background-color: #fff;
+}
