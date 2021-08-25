@@ -52,8 +52,16 @@ p {
     max-width: 1500px;
 }
 .hoverpro{
-    background-color: #636363;
+    background-color: #a9a9a9;
+    border: 20px solid white;
     color: white;
-    border-radius: 12px;
+    border-radius: 40px;
     padding: 15px !important;
+    
+}
+.w3-display-container{
+    padding: 10px;
+}
+.mySlides {
+    display:none
 }
