@@ -32,7 +32,8 @@ p {
     background-image: url("/image/bg1.jpg")
 }
 .about_bg{
-    background-color: #e5e5e5;
+    background-color: #636363;
+    color: white;
 }
 .get_start{
     background-color:#212529;
@@ -42,11 +43,17 @@ p {
     background-color: #fff;
 }
 .experience_bg{
-    background-color: #e5e5e5;
+    background-color: #636363;
 }
 .project_bg{
     background-color: #fff;
 }
 .w3-content-set{
-    max-width: 1200px;
+    max-width: 1500px;
+}
+.hoverpro{
+    background-color: #636363;
+    color: white;
+    border-radius: 12px;
+    padding: 15px !important;
 }
