@@ -2,18 +2,20 @@
  body,h1,h2,h4{
     font-family: "Raleway", sans-serif
 }
-/* .confont{
-    font-family: "Raleway", sans-serif
-} */
 
 h1,h3 {
     letter-spacing: 6px
 }
-h4, .letterSpace{
+h5 {
+    margin-top: 20px;
+    font-weight: 400 !important;
+    letter-spacing: 1.2px
+}
+h4 ,.letterSpace{
     font-weight: 800 !important;
     letter-spacing: 1.5px
 }
-li {
+li{
     letter-spacing: 1px
 }
 .w3-row-padding img {
